@@ -1,4 +1,4 @@
-# Devadarshikaa — Digital Research Lab
+# Devadarshikaa 
 
 A personal portfolio site built with React, Vite, TypeScript, Tailwind CSS, and Framer Motion.
 
